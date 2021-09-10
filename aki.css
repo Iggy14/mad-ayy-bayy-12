@@ -1,0 +1,38 @@
+body{
+	background: linear-gradient(to right,#d66d75,#e29587);
+	
+}
+h2{
+	text-align: center;
+	color:mediumvioletred;
+	font-family: serif;
+	font-weight: bolder;
+}
+.clBack{
+	font-family: monospace;
+	color: black;
+}
+.clBack:hover{
+	color: RED;
+}
+p{
+	color:darkblue;
+}
+#idaki{
+	text-align: center;
+	margin: inherit;
+}
+.claki{
+	width: 40%;
+	height: 50%;
+	border-radius: 20%;
+}
+p{
+	font-family: sans-serif;
+}
+ui{
+	font-family: sans-serif;
+}
+.image{
+	border-radius: 20%;
+}

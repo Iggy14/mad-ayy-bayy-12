@@ -1,0 +1,38 @@
+body{
+	background: linear-gradient(to right,blue,white);
+	
+}
+h2{
+	text-align: center;
+	color:violet;
+	font-family: serif;
+	font-weight: bolder;
+}
+.clBack{
+	font-family: monospace;
+	color: black;
+}
+.clBack:hover{
+	color: RED;
+}
+p{
+	color:Black;
+}
+#idcho{
+	text-align: center;
+	margin: inherit;
+}
+.clcho{
+	width: 40%;
+	height: 50%;
+	border-radius: 20%;
+}
+p{
+	font-family: sans-serif;
+}
+ui{
+	font-family: sans-serif;
+}
+.image{
+	border-radius: 20%;
+}

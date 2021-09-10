@@ -1,0 +1,38 @@
+body{
+	background: linear-gradient(to right,#ff7e5f,#feb47b);
+	
+}
+h2{
+	text-align: center;
+	color:mediumvioletred;
+	font-family: serif;
+	font-weight: bolder;
+}
+.clBack{
+	font-family: monospace;
+	color: black;
+}
+.clBack:hover{
+	color: RED;
+}
+p{
+	color:blue;
+}
+#idkha{
+	text-align: center;
+	margin: inherit;
+}
+.clkha{
+	width: 40%;
+	height: 50%;
+	border-radius: 20%;
+}
+p{
+	font-family: sans-serif;
+}
+ui{
+	font-family: sans-serif;
+}
+.image{
+	border-radius: 20%;
+}

@@ -1,0 +1,37 @@
+body{
+	background: linear-gradient(to right,lightblue,white);
+	
+}
+h2{
+	text-align: center;
+	font-family: serif;
+	font-weight: bolder;
+}
+.clBack{
+	font-family: monospace;
+	color: black;
+}
+.clBack:hover{
+	color: RED;
+}
+p{
+	color:blue;
+}
+#idKyi{
+	text-align: center;
+	margin: inherit;
+}
+.clKyi{
+	width: 40%;
+	height: 50%;
+	border-radius: 20%;
+}
+.image{
+	border-radius: 20%;
+}
+p{
+	font-family: sans-serif;
+}
+ui{
+	font-family: sans-serif;
+}

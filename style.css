@@ -1,0 +1,42 @@
+body{
+	background: linear-gradient(to right,lightcoral,lightskyblue);
+	font-family: sans-serif;
+}
+h1{
+	text-align: center;
+	color: #4d5198;
+	letter-spacing: 0.25rem;
+}
+.clImgbd{
+	width: 250px;
+	height:200px;
+	position: absolute;
+	margin: 20px;
+	border-radius: 20%;
+}
+.cl1{
+	font-weight: bold;
+	color: #316879;
+	text-align: center;
+}
+li a{
+	font-weight: bold;
+	color: blue;
+	text-align: center;
+	text-decoration: inherit;
+	padding:5px 5px;
+	display: inline-block;
+}
+li a:hover{
+	background-color: white
+}
+.image{
+	border-radius: 50%;
+
+}
+.thetclap{
+	width: 200px;
+	height: 200px;
+	border-radius: 20%;
+	left: 50%;
+}

@@ -1,0 +1,35 @@
+body{
+	background: linear-gradient(to right,#36d1dc,#5b86e5);
+	
+}
+h2{
+	text-align: center;
+	color:darkblue;
+	font-family: serif;
+	font-weight: bolder;
+}
+.clBack{
+	font-family: monospace;
+	color: black;
+}
+.clBack:hover{
+	color: RED;
+}
+p{
+	color:white;
+}
+#idthet{
+	text-align: center;
+	margin: inherit;
+}
+.clthet{
+	width: 40%;
+	height: 50%;
+	border-radius: 20%;
+}
+p{
+	font-family: sans-serif;
+}
+ui{
+	font-family: sans-serif;
+}

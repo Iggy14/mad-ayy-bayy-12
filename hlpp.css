@@ -1,0 +1,39 @@
+body{
+	background: linear-gradient(to right,#4ca1af,#c4e0e5);
+	
+}
+h2{
+	text-align: center;
+	color:darkblue;
+	font-family: serif;
+	font-weight: bolder;
+}
+.clBack{
+	font-family: monospace;
+	color: blue;
+}
+.clBack:hover{
+	color: papayawhip;
+}
+p{
+	color:black ;
+}
+#idHlpp{
+	text-align: center;
+	margin: inherit;
+	
+}
+.clHlpp{
+	width: 45%;
+	height: 45%;
+	border-radius: 20%;
+}
+p{
+	font-family: sans-serif;
+}
+ui{
+	font-family: sans-serif;
+}
+.image{
+	border-radius: 20%;
+}

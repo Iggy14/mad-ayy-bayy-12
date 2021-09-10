@@ -1,0 +1,38 @@
+body{
+	background: linear-gradient(to right,#ec6f66,#f3a183);
+	
+}
+h2{
+	text-align: center;
+	color:darkblue;
+	font-family: serif;
+	font-weight: bolder;
+}
+.clBack{
+	font-family: monospace;
+	color: black;
+}
+.clBack:hover{
+	color: RED;
+}
+p{
+	color:black;
+}
+#idbhone{
+	text-align: center;
+	margin: inherit;
+}
+.clbhone{
+	width: 40%;
+	height: 50%;
+	border-radius: 20%;
+}
+p{
+	font-family: sans-serif;
+}
+ui{
+	font-family: sans-serif;
+}
+.image{
+	border-radius: 20%;
+}

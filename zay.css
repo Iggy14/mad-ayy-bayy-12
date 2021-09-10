@@ -1,0 +1,38 @@
+body{
+	background: linear-gradient(to right,#eacda3,#d6ae7c);
+	
+}
+h2{
+	text-align: center;
+	color:darkblue;
+	font-family: serif;
+	font-weight: bolder;
+}
+.clBack{
+	font-family: monospace;
+	color: black;
+}
+.clBack:hover{
+	color: RED;
+}
+p{
+	color:black;
+}
+#idzay{
+	text-align: center;
+	margin: inherit;
+}
+.clzay{
+	width: 40%;
+	height: 50%;
+	border-radius: 20%;
+}
+p{
+	font-family: sans-serif;
+}
+ui{
+	font-family: sans-serif;
+}
+.image{
+	border-radius: 20%;
+}
